@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "904610831063",
+    "project_id": "my-cool-project-unique123",
+    "storage_bucket": "my-cool-project-unique123.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:904610831063:android:947817de43056467dbae92",
+        "android_client_info": {
+          "package_name": "com.example.inclass12"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpPFMqlD4ZHaja3UDGFkMWpNkjpHFX00s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
